@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CursomcApplication<cursomc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.nelioalves.cursomc.CursomcApplication",
+            "projectName": "cursomc",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
